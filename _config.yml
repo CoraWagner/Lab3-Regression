@@ -1,3 +1,2 @@
 theme: jekyll-theme-midnight
 title: Lab 3 - Regression
-description: This program reads in a .csv file and creates plot charts based on predetermined information from the file. It then finds the line of best fit for the graph and R Squared.
